@@ -5,6 +5,7 @@ Organization profile and default community health files for [RackMoon](https://g
 | Path | Purpose |
 | --- | --- |
 | `profile/README.md` | The page shown at [github.com/rackmoon](https://github.com/rackmoon) |
+| `profile/README.zh-CN.md` | Chinese version of the profile page |
 | `CONTRIBUTING.md` | Default contributing guide |
 | `SECURITY.md` | How to report vulnerabilities |
 | `.github/ISSUE_TEMPLATE/` | Default issue forms |
