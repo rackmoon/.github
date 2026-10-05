@@ -5,19 +5,21 @@
   <img alt="RackMoon" src="https://raw.githubusercontent.com/rackmoon/.github/main/profile/assets/rackmoon-horizontal-day.svg" width="340">
 </picture>
 
-**给主机商和云服务商用的计费、开通和 AI 智能体系统。**
+**给主机商和云服务商用的软件。**
 
 [English](https://github.com/rackmoon) · 简体中文
 
 </div>
 
-RackMoon 是一套可以自己部署的主机商经营系统，计费、自动开通、客户中心和工单都在一起。核心系统免费，计划开源。
+RackMoon 为主机商和云服务商做软件，全部运行在你自己的服务器上。六款产品，一个家族：
 
-- **一套计费引擎**：VPS、独立服务器、GPU、容器、游戏服、域名都能卖。
-- **开通插件化**：新的产品类型直接接入，不用改计费代码。
-- **上下游货源**：转售其他主机商的产品，自动开通。
-- **安全的 AI 智能体**：每个操作要么只读，要么经过确认或批准，全部留痕。
+- **财务系统**：主机业务的经营系统，管订单、账单、客户、工单和 AI 智能体。
+- **KVM 管理器**：在你的节点上运行 KVM 虚拟机，直接当云服务器卖。
+- **Hyper-V 管理器**：管理 Hyper-V 宿主机，交付开好远程桌面的 Windows 服务器。
+- **Docker 容器分发**：把 Docker 镜像做成商品，几秒内部署到你的节点上。
+- **游戏服务器**：用模板一键开服，控制台、文件、备份和计划任务都有。
+- **监控系统**：盯住节点、服务和流量，在客户发现之前通知到对的人。
 
-> 项目还在设计阶段，正在公开开发，暂时不能用于生产环境。
+> 项目还在设计阶段，暂时不能用于生产环境。
 
-有问题或想法，欢迎[提 issue](https://github.com/rackmoon/.github/issues)；安全问题请按[安全策略](https://github.com/rackmoon/.github/blob/main/SECURITY.md)私下报告。
+更多介绍见 [www.rackmoon.com](https://www.rackmoon.com/zh/)。有问题或想法，欢迎[提 issue](https://github.com/rackmoon/.github/issues)；安全问题请按[安全策略](https://github.com/rackmoon/.github/blob/main/SECURITY.md)私下报告。
