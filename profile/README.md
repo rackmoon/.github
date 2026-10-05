@@ -11,13 +11,14 @@ English · [简体中文](https://github.com/rackmoon/.github/blob/main/profile/
 
 </div>
 
-RackMoon builds software for hosting and cloud providers, all running on your own servers. Six products, one family:
+RackMoon builds software for hosting and cloud providers, all running on your own servers. Seven products, one family:
 
 - **Billing.** The business system for hosting: orders, invoices, customers, tickets and AI agents.
 - **KVM Manager.** Run KVM virtual machines across your nodes and sell them as cloud servers.
 - **Hyper-V Manager.** Manage Hyper-V hosts and deliver Windows servers with remote desktop ready.
 - **Containers.** Turn Docker images into products and deploy them to your nodes in seconds.
 - **Game Servers.** Launch game servers from templates, with a console, files, backups and schedules.
+- **DCIM.** Rent out bare-metal servers and colocation, with power, OS installs, switch ports and IPs automated.
 - **Monitoring.** Watch nodes, services and traffic, and alert the right people before customers notice.
 
 > Early design. Nothing is ready for production yet.
