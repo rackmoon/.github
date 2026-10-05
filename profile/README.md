@@ -1,6 +1,9 @@
 <div align="center">
 
-# RackMoon
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rackmoon/.github/main/profile/assets/rackmoon-horizontal-night.svg">
+  <img alt="RackMoon" src="https://raw.githubusercontent.com/rackmoon/.github/main/profile/assets/rackmoon-horizontal-day.svg" width="340">
+</picture>
 
 **Billing, provisioning and AI agents for hosting and cloud providers.**
 
